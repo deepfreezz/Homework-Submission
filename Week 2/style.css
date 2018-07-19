@@ -1,0 +1,17 @@
+body{background-color: grey;}
+.myinfo{border: 2px solid green;
+        font-size: 25px;
+        color: white;
+        background-color:pink;
+        font-style: italic;}
+h1{font-size: 30px;
+   font-style: italic;
+   color: white;
+   text-align: center;}
+#myinfo1{width:400px;
+        height: 300px;
+        border: 2px dotted black;
+}
+.myinfo2{border:2px solid green;
+         color: white; background-color: lightblue;
+         font-size: 25px;}
