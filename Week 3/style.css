@@ -1,0 +1,36 @@
+#grid-floats .grid-item {
+  width: 23%;
+  border: 2px solid black;
+float: left;
+height: 300px;
+margin: 5px;
+ text-align: center;
+}
+.grid-item img {
+  width: 20%;
+}
+#grid-floats .grid-item:nth-child(1) {
+  width: 47%;
+}
+ul {
+  list-style: none;
+}
+@media screen and (max-width: 1023px) and (min-width:769px) {
+  background-color: red;
+}
+#grid-flex {
+margin-top:500px;
+  display: flex;
+flex-wrap: wrap;
+}
+#grid-flex  .grid-item {
+  width: 23%;
+  border: 2px solid black;
+ height: 300px;
+margin: 5px;
+text-align: center;
+}
+
+.flex-section{
+    margin-top:500px;
+}
